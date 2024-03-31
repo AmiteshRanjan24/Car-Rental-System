@@ -14,3 +14,12 @@ Instructions to Run the Program -
 1. Firstly execute the program, then in terminal this will be showed
    
 ![Screenshot 2024-03-31 200134](https://github.com/AmiteshRanjan24/Car-Rental-System/assets/155641084/46faec05-bbf8-47ea-854d-f3782b841a64)
+
+2. Now, choose the choice
+   Let's say we choose 1 and entered the name
+   
+![Screenshot 2024-03-31 201012](https://github.com/AmiteshRanjan24/Car-Rental-System/assets/155641084/d504dd98-eb9e-44ea-815a-1b60944593aa)
+
+3. 
+
+
