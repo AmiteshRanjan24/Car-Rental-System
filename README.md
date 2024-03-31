@@ -25,8 +25,14 @@ Instructions to Run the Program -
    
 ![Screenshot 2024-03-31 201526](https://github.com/AmiteshRanjan24/Car-Rental-System/assets/155641084/841ce211-3c8e-4d7a-a4b8-777e9ba1780d)
 
-4. After this Rental Information will be showed and it will ask for our confiramtion. When we say say Yes this will be showed.
+4. After this, rental information will be shown, and it will ask for our confirmation. When we say yes, this will be shown.
 
 ![Screenshot 2024-03-31 201751](https://github.com/AmiteshRanjan24/Car-Rental-System/assets/155641084/79b91228-d7ef-4fe8-ac00-6a30f510526b)
 
+When we choose option 2, it will ask for the car ID we want to return.  
+
+![Screenshot 2024-03-31 202725](https://github.com/AmiteshRanjan24/Car-Rental-System/assets/155641084/fadbaa7f-8909-4c41-a001-af37fe9446ce)
+
+Atlast when we choose option 3, it will exit the program.
+![Screenshot 2024-03-31 202930](https://github.com/AmiteshRanjan24/Car-Rental-System/assets/155641084/57374391-d3d1-4ebc-850f-c183689185da)
 
