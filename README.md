@@ -1,14 +1,6 @@
 # Car-Rental-System
 Java Project made using concepts of OOPS
 
-GROUP MEMBERS -
-1. 22052530 - Amitesh Ranjan
-2. 22052542 - Ashish Kumar
-3. 22052572 - Priyanshu Kumar
-4. 22052573 - Rahul Kumar
-5. 22052601 - Sourav Prasad
-6. 22051256 - Kashish Sarkar
-
 
 Instructions to Run the Program - 
 
